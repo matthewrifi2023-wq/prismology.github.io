@@ -1,2 +1,2 @@
-# prismology.github.io
+# prismology
 Private minecraft discord repository!
